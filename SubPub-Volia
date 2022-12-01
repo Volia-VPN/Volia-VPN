@@ -1,0 +1,6 @@
+vless://2e5e2bb9-c80f-49bc-8355-cec2d116470b@gate.volia.tk:51050?security=xtls&encryption=none&headerType=none&type=tcp&flow=xtls-rprx-direct#vless-tcp-xtls
+vless://2e5e2bb9-c80f-49bc-8355-cec2d116470b@gate.volia.tk:51050?security=tls&encryption=none&headerType=none&type=tcp#vless-tcp-tls
+vless://2e5e2bb9-c80f-49bc-8355-cec2d116470b@gate.volia.tk:51050?path=%2FTTFCXW&security=tls&encryption=none&type=ws#vless-ws-tls
+vless://2e5e2bb9-c80f-49bc-8355-cec2d116470b@gate.volia.tk:2003?mode=gun&security=tls&encryption=none&type=grpc&serviceName=VWEDF7M#vless-gRPC
+vmess://eyJhZGQiOiJnYXRlLnZvbGlhLnRrIiwiYWlkIjoiMCIsImFscG4iOiIiLCJob3N0IjoiIiwiaWQiOiIyZTVlMmJiOS1jODBmLTQ5YmMtODM1NS1jZWMyZDExNjQ3MGIiLCJuZXQiOiJ3cyIsInBhdGgiOiIvWFRKTTFBNjEiLCJwb3J0IjoiNTEwNTAiLCJwcyI6InZtZXNzLXdzLXRscyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
+trojan://8c324662-aa25-45cd-a88b-71d70065c135@gate.volia.tk:51050?security=tls&type=tcp#trojan-tcp
