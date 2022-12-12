@@ -1,7 +1,5 @@
-vless://1f6a2229-d4e9-48a8-b8c4-5ef9bc6a3c77@shop.volia.tk:51722?security=xtls&encryption=none&headerType=none&type=tcp&flow=xtls-rprx-direct#vless-tcp-xtls
-vless://1f6a2229-d4e9-48a8-b8c4-5ef9bc6a3c77@shop.volia.tk:51722?security=tls&encryption=none&headerType=none&type=tcp#vless-tcp-tls
-vless://1f6a2229-d4e9-48a8-b8c4-5ef9bc6a3c77@shop.volia.tk:51722?path=%2F8GR6F0&security=tls&encryption=none&type=ws#vless-ws-tls
-vless://1f6a2229-d4e9-48a8-b8c4-5ef9bc6a3c77@shop.volia.tk:2003?mode=gun&security=tls&encryption=none&type=grpc&serviceName=YUSEH60#vless-gRPC
-vmess://eyJhZGQiOiJzaG9wLnZvbGlhLnRrIiwiYWlkIjoiMCIsImFscG4iOiIiLCJob3N0IjoiIiwiaWQiOiIxZjZhMjIyOS1kNGU5LTQ4YTgtYjhjNC01ZWY5YmM2YTNjNzciLCJuZXQiOiJ3cyIsInBhdGgiOiIvSlJDWTcwSEQiLCJwb3J0IjoiNTE3MjIiLCJwcyI6InZtZXNzLXdzLXRscyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
-trojan://1f6a2229-d4e9-48a8-b8c4-5ef9bc6a3c77@shop.volia.tk:51722?security=tls&type=tcp#trojan-tcp
-ss://YWVzLTEyOC1nY206MWY2YTIyMjktZDRlOS00OGE4LWI4YzQtNWVmOWJjNmEzYzc3@shop.volia.tk:4001#ShadowSocks%E2%9D%97
+vless://870ddd41-c246-432d-94ea-75e33e599f8b@sub.volia.tk:18120?security=xtls&encryption=none&headerType=none&type=tcp&flow=xtls-rprx-direct#vless-tcp-xtls
+vless://870ddd41-c246-432d-94ea-75e33e599f8b@sub.volia.tk:18120?security=tls&encryption=none&headerType=none&type=tcp#vless-tcp-tls
+vless://870ddd41-c246-432d-94ea-75e33e599f8b@sub.volia.tk:18120?path=%2FCQGLHM&security=tls&encryption=none&type=ws#vless-ws-tls
+vless://870ddd41-c246-432d-94ea-75e33e599f8b@sub.volia.tk:2003?mode=gun&security=tls&encryption=none&type=grpc&serviceName=UFCVDEG#vless-gRPC
+trojan://870ddd41-c246-432d-94ea-75e33e599f8b@sub.volia.tk:18120?security=tls&type=tcp#trojan-tcp
